@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, Java and AWS**
 
-- 👨‍💻 All of my projects and resume are available at [https://www.marquel.dev/](https://www.marquel.dev/)
+- 👨‍💻 All of my projects are available here. My resume is available at [https://www.marquel.dev/](https://www.marquel.dev/)
 
 - 💬 Ask me about **react, node.js, full stack development and frontend development**
 
